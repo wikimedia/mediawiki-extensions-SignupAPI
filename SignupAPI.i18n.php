@@ -132,6 +132,25 @@ $messages['dsb'] = array(
 	'signupapi-invalidemailaddress' => 'E-mailowa adresa jo njepłaśiwa',
 );
 
+/** Spanish (Español)
+ * @author Armando-Martin
+ */
+$messages['es'] = array(
+	'usersignup' => 'Registro de usuario',
+	'signupapi-desc' => 'Limpia la [[Special:UserLogin|página de inicio de sesión]] de informaciones relacionadas con la creación de la cuenta y agrega una API para la creación de cuentas',
+	'signupapi-ok' => 'Aceptar',
+	'signupapi-noname' => 'No se especificó ningún nombre de usuario',
+	'signupapi-userexists' => 'El usuario existe',
+	'signupapi-enterpassword' => 'Debe introducir una contraseña',
+	'signupapi-passwordtooshort' => 'La contraseña es demasiado corta',
+	'signupapi-weak' => 'Débil',
+	'signupapi-medium' => 'Media',
+	'signupapi-strong' => 'Fuerte',
+	'signupapi-badretype' => 'Las contraseñas que ha introducido no coinciden',
+	'signupapi-passwordsmatch' => 'Las contraseñas coinciden',
+	'signupapi-invalidemailaddress' => 'La dirección de correo electrónico no es válida',
+);
+
 /** French (Français)
  * @author Crochet.david
  * @author Gomoko
