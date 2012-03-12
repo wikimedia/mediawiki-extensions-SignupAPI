@@ -22,6 +22,7 @@ $messages['en'] = array(
 	'signupapi-badretype' => 'The passwords you entered do not match',
 	'signupapi-passwordsmatch' => 'Passwords match',
 	'signupapi-invalidemailaddress' => 'E-mail address is invalid',
+	'signupapi-invalidusername' => 'Username entered is invalid',
 );
 
 /** Message documentation (Message documentation)

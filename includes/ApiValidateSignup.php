@@ -23,14 +23,17 @@ class ApiValidateSignup extends ApiBase {
 
 		switch ( $params['field'] ) {
 			case "username":
-				$mUser = User::newFromName( $params['inputVal'], 'creatable' );
-				if ( !is_object( $mUser ) ) {
+				if( $params['inputVal'] == '' )  {
+					# Username left blank
 					$result['result'] = wfMsg( 'signupapi-noname' );
-					$result['icon'] = 'MW-Icon-AlertMark.png';
-				}
-
-				if ( 0 != $mUser->idForName() ) {
+					$result['icon'] = "MW-Icon-AlertMark.png";
+				} else if (  !is_null( User::idFromName( $params['inputVal'] ) ) ) {
+					# User Exists
 					$result['result'] = wfMsg( 'signupapi-userexists' );
+					$result['icon'] = "MW-Icon-NoMark.png";
+				} else if( !User::isValidUserName( $params['inputval'] ) ) {
+					# Illegal name
+					$result['result'] = wfMsg( 'signupapi-invalidusername' );
 					$result['icon'] = "MW-Icon-NoMark.png";
 				} else {
 					$result['result'] = wfMsg( 'signupapi-ok' );
