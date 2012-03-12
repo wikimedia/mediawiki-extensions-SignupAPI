@@ -105,6 +105,7 @@ $messages['de'] = array(
 	'signupapi-badretype' => 'Die beiden Passwörter stimmen nicht überein.',
 	'signupapi-passwordsmatch' => 'Die beiden Passwörter stimmen überein.',
 	'signupapi-invalidemailaddress' => 'Die E-Mail-Adresse ist ungültig.',
+	'signupapi-invalidusername' => 'Der angegebene Benutzername ist ungültig.',
 );
 
 /** German (formal address) (‪Deutsch (Sie-Form)‬)
@@ -150,6 +151,7 @@ $messages['es'] = array(
 	'signupapi-badretype' => 'Las contraseñas que ha introducido no coinciden',
 	'signupapi-passwordsmatch' => 'Las contraseñas coinciden',
 	'signupapi-invalidemailaddress' => 'La dirección de correo electrónico no es válida',
+	'signupapi-invalidusername' => 'El nombre de usuario introducido no es válido',
 );
 
 /** French (Français)
@@ -254,6 +256,7 @@ $messages['ia'] = array(
 	'signupapi-badretype' => 'Le duo contrasignos que tu scribeva non es identic.',
 	'signupapi-passwordsmatch' => 'Le contrasignos es identic',
 	'signupapi-invalidemailaddress' => 'Le adresse de e-mail es invalide',
+	'signupapi-invalidusername' => 'Le nomine de usator specificate es invalide',
 );
 
 /** Japanese (日本語)
