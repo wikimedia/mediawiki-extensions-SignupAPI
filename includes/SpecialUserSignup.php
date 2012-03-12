@@ -732,6 +732,15 @@ class SpecialUserSignup extends SpecialPage {
 			if( $this->mLanguage )
 				$template->set( 'uselang', $this->mLanguage );
 		}
+		
+		// Use signupend-https for HTTPS requests if it's not blank, signupend otherwise
+		$usingHTTPS = WebRequest::detectProtocol() == 'https';
+		$signupendHTTPS = $this->msg( 'signupend-https' );
+		if ( $usingHTTPS && !$signupendHTTPS->isBlank() ) {
+			$template->set( 'signupend', $signupendHTTPS->parse() );
+		} else {
+			$template->set( 'signupend', $this->msg( 'signupend' )->parse() );
+		}
 
 		// Give authentication and captcha plugins a chance to modify the form
 		$wgAuth->modifyUITemplate( $template, $this->mType );
