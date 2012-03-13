@@ -132,6 +132,7 @@ $messages['dsb'] = array(
 	'signupapi-badretype' => 'Gronidle, kótarejž sy zapódał, se njemakatej',
 	'signupapi-passwordsmatch' => 'Gronidle se makatej',
 	'signupapi-invalidemailaddress' => 'E-mailowa adresa jo njepłaśiwa',
+	'signupapi-invalidusername' => 'Zapódane wužywarske mě jo njepłaśiwe',
 );
 
 /** Spanish (Español)
@@ -175,6 +176,7 @@ $messages['fr'] = array(
 	'signupapi-badretype' => 'Les mots de passe que vous avez saisis ne correspondent pas.',
 	'signupapi-passwordsmatch' => 'Les mots de passe correspondent',
 	'signupapi-invalidemailaddress' => "L'adresse de courriel est invalide",
+	'signupapi-invalidusername' => "Le nom d'utilisateur entré n'est pas valide",
 );
 
 /** Franco-Provençal (Arpetan)
@@ -211,6 +213,7 @@ $messages['gl'] = array(
 	'signupapi-badretype' => 'Os contrasinais que inseriu non coinciden',
 	'signupapi-passwordsmatch' => 'Os contrasinais coinciden',
 	'signupapi-invalidemailaddress' => 'O enderezo de correo electrónico é inválido',
+	'signupapi-invalidusername' => 'O nome de usuario especificado é inválido',
 );
 
 /** Hebrew (עברית)
@@ -237,6 +240,7 @@ $messages['hsb'] = array(
 	'signupapi-badretype' => 'Hesle, kotrejž sy zapodał, so njekryjetej.',
 	'signupapi-passwordsmatch' => 'Hesle so kryjetej',
 	'signupapi-invalidemailaddress' => 'E-mejlowa adresa je njepłaćiwa',
+	'signupapi-invalidusername' => 'Zapodate wužiwarske mjeno je njepłaćiwe',
 );
 
 /** Interlingua (Interlingua)
@@ -297,6 +301,7 @@ $messages['mk'] = array(
 	'signupapi-badretype' => 'Внесените лозинки не се совпаѓаат',
 	'signupapi-passwordsmatch' => 'Лозинките се совпаѓаат',
 	'signupapi-invalidemailaddress' => 'Е-поштата е неважечка',
+	'signupapi-invalidusername' => 'Внесеното корисничко име е неважечко',
 );
 
 /** Malay (Bahasa Melayu)
@@ -363,6 +368,7 @@ $messages['pl'] = array(
 	'signupapi-badretype' => 'Wprowadzone hasła nie pasują do siebie',
 	'signupapi-passwordsmatch' => 'Hasła pasują do siebie',
 	'signupapi-invalidemailaddress' => 'Adres e-mail jest nieprawidłowy',
+	'signupapi-invalidusername' => 'Wprowadzona nazwa użytkownika jest nieprawidłowa',
 );
 
 /** Portuguese (Português)
