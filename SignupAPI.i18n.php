@@ -341,6 +341,7 @@ $messages['nl'] = array(
 	'signupapi-badretype' => 'De ingevoerde wachtwoorden verschillen van elkaar.',
 	'signupapi-passwordsmatch' => 'De wachtwoorden zijn gelijk.',
 	'signupapi-invalidemailaddress' => 'Het e-mailadres is ongeldig.',
+	'signupapi-invalidusername' => 'De ingegeven gebruikersnaam is ongeldig',
 );
 
 /** Oriya (ଓଡ଼ିଆ)
