@@ -321,6 +321,7 @@ $messages['ms'] = array(
 	'signupapi-badretype' => 'Kata-kata laluan yang anda berikan tidak sepadan',
 	'signupapi-passwordsmatch' => 'Kata-kata laluan sepadan',
 	'signupapi-invalidemailaddress' => 'Alamat e-mel tidak sah',
+	'signupapi-invalidusername' => 'Nama pengguna yang diberikan tidak sah',
 );
 
 /** Dutch (Nederlands)
