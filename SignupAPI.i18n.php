@@ -69,6 +69,7 @@ $messages['be-tarask'] = array(
 	'signupapi-badretype' => 'Уведзеныя Вамі паролі не супадаюць',
 	'signupapi-passwordsmatch' => 'Паролі супадаюць',
 	'signupapi-invalidemailaddress' => 'Няслушны адрас электроннай пошты',
+	'signupapi-invalidusername' => 'Уведзенае няслушнае імя ўдзельніка',
 );
 
 /** Breton (Brezhoneg)
