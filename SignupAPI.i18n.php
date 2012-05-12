@@ -185,8 +185,8 @@ $messages['fr'] = array(
  */
 $messages['frp'] = array(
 	'signupapi-ok' => 'D’acôrd',
-	'signupapi-noname' => 'Nion nom d’utilisator at étâ spècefiâ',
-	'signupapi-userexists' => 'L’utilisator ègziste',
+	'signupapi-noname' => 'Nion nom d’usanciér at étâ spècefiâ',
+	'signupapi-userexists' => 'L’usanciér ègziste',
 	'signupapi-enterpassword' => 'Vos dête buchiér un contresegno',
 	'signupapi-passwordtooshort' => 'Lo contresegno est trop côrt',
 	'signupapi-weak' => 'Fêblo',
@@ -351,6 +351,13 @@ $messages['nl'] = array(
  */
 $messages['or'] = array(
 	'signupapi-ok' => 'ଠିକ ଅଛି',
+);
+
+/** Pälzisch (Pälzisch)
+ * @author Manuae
+ */
+$messages['pfl'] = array(
+	'signupapi-strong' => 'schdarg',
 );
 
 /** Polish (Polski)
