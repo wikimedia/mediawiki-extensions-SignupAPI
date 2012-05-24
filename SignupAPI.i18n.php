@@ -266,9 +266,23 @@ $messages['ia'] = array(
 
 /** Japanese (日本語)
  * @author Fryed-peach
+ * @author Shirayuki
  */
 $messages['ja'] = array(
+	'usersignup' => '利用者アカウント作成',
+	'signupapi-desc' => '[[Special:UserLogin|ログインページ]]からアカウント作成に関連するものを消し、アカウント作成の API を追加する',
 	'signupapi-ok' => 'OK',
+	'signupapi-noname' => '利用者名が指定されていません',
+	'signupapi-userexists' => '利用者が存在します',
+	'signupapi-enterpassword' => 'パスワードを入力する必要があります',
+	'signupapi-passwordtooshort' => 'パスワードが短すぎます',
+	'signupapi-weak' => '弱',
+	'signupapi-medium' => '中',
+	'signupapi-strong' => '強',
+	'signupapi-badretype' => '入力されたパスワードが一致しません',
+	'signupapi-passwordsmatch' => 'パスワードが一致',
+	'signupapi-invalidemailaddress' => 'メールアドレスが正しくありません',
+	'signupapi-invalidusername' => '入力された利用者名が正しくありません',
 );
 
 /** Luxembourgish (Lëtzebuergesch)
