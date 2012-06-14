@@ -42,7 +42,7 @@ $messages['ar'] = array(
 	'signupapi-medium' => 'متوسط',
 );
 
-/** Azerbaijani (Azərbaycanca)
+/** Azerbaijani (azərbaycanca)
  * @author Cekli829
  */
 $messages['az'] = array(
@@ -72,7 +72,7 @@ $messages['be-tarask'] = array(
 	'signupapi-invalidusername' => 'Уведзенае няслушнае імя ўдзельніка',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  * @author Y-M D
  */
@@ -136,7 +136,7 @@ $messages['dsb'] = array(
 	'signupapi-invalidusername' => 'Zapódane wužywarske mě jo njepłaśiwe',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Armando-Martin
  */
 $messages['es'] = array(
@@ -156,7 +156,7 @@ $messages['es'] = array(
 	'signupapi-invalidusername' => 'El nombre de usuario introducido no es válido',
 );
 
-/** French (Français)
+/** French (français)
  * @author Crochet.david
  * @author Gomoko
  * @author Hashar
@@ -180,7 +180,7 @@ $messages['fr'] = array(
 	'signupapi-invalidusername' => "Le nom d'utilisateur entré n'est pas valide",
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
@@ -244,7 +244,7 @@ $messages['hsb'] = array(
 	'signupapi-invalidusername' => 'Zapodate wužiwarske mjeno je njepłaćiwe',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -299,7 +299,7 @@ $messages['lb'] = array(
 	'signupapi-strong' => 'Staark',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -374,7 +374,7 @@ $messages['pfl'] = array(
 	'signupapi-strong' => 'schdarg',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author BeginaFelicysym
  * @author Woytecr
  */
@@ -395,7 +395,7 @@ $messages['pl'] = array(
 	'signupapi-invalidusername' => 'Wprowadzona nazwa użytkownika jest nieprawidłowa',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Giro720
  * @author Hamilton Abreu
  * @author SandroHc
@@ -411,7 +411,7 @@ $messages['pt'] = array(
 	'signupapi-invalidemailaddress' => 'Endereço de correio electrónico inválido',
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Eleferen
  * @author Александр Сигачёв
  */
