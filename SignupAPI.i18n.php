@@ -50,7 +50,7 @@ $messages['az'] = array(
 	'signupapi-medium' => 'Orta',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Renessaince
  * @author Wizardist
@@ -116,7 +116,7 @@ $messages['de-formal'] = array(
 	'signupapi-enterpassword' => 'Sie müssen ein Passwort eingeben.',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -197,7 +197,7 @@ $messages['frp'] = array(
 	'signupapi-invalidemailaddress' => 'L’adrèce èlèctronica est envalida',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -224,7 +224,7 @@ $messages['he'] = array(
 	'signupapi-desc' => 'ניקוי [[Special:UserLogin|דף הכניסה]] מדברים שקשורים לרישום והוספת ממשק תכנות (API) לרישום',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
