@@ -26,10 +26,12 @@ $messages['en'] = array(
 );
 
 /** Message documentation (Message documentation)
+ * @author Beta16
  * @author EugeneZelenko
  */
 $messages['qqq'] = array(
 	'usersignup' => 'This message is the page title of the special page [[Special:UserSignup]]',
+	'signupapi-desc' => '{{desc}}',
 	'signupapi-ok' => '{{Identical|OK}}',
 	'signupapi-medium' => '{{Identical|Medium}}',
 );
@@ -262,6 +264,25 @@ $messages['ia'] = array(
 	'signupapi-passwordsmatch' => 'Le contrasignos es identic',
 	'signupapi-invalidemailaddress' => 'Le adresse de e-mail es invalide',
 	'signupapi-invalidusername' => 'Le nomine de usator specificate es invalide',
+);
+
+/** Italian (italiano)
+ * @author Beta16
+ */
+$messages['it'] = array(
+	'usersignup' => 'Registrazione utente',
+	'signupapi-ok' => 'OK',
+	'signupapi-noname' => 'Non è stato specificato alcun nome utente',
+	'signupapi-userexists' => 'Utente esistente',
+	'signupapi-enterpassword' => 'È necessario inserire una password',
+	'signupapi-passwordtooshort' => 'La password è troppo corta',
+	'signupapi-weak' => 'Debole',
+	'signupapi-medium' => 'Media',
+	'signupapi-strong' => 'Forte',
+	'signupapi-badretype' => 'Le password inserite non coincidono tra loro',
+	'signupapi-passwordsmatch' => 'Le password coincidono',
+	'signupapi-invalidemailaddress' => "L'indirizzo di posta elettronica non è valido",
+	'signupapi-invalidusername' => 'Il nome utente inserito non è valido',
 );
 
 /** Japanese (日本語)
